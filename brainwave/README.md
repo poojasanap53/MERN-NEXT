@@ -1,5 +1,6 @@
 # Brainwave
 - This is a single page React + Vite application using Modern UI/UX and Animations
+- Live : [Brainwave](https://brainwave-mauve.vercel.app/)
 
 # React + Vite
 
